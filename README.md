@@ -39,4 +39,4 @@ module.exports = {
 };
 ```
 
-With this transformer, only values of the column `email` of the table `user` will be replace by a random value provided by the [Chance](https://chancejs.com/) package
+With this transformer, only values of the column `email` of the table `user` will be replace by a random value provided by the [Chance](https://chancejs.com/) package.
