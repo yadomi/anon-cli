@@ -1,6 +1,7 @@
 {
   "name": "anon-cli",
   "version": "0.0.1",
+  "license": "ISC",
   "main": "index.js",
   "author": "Felix Yadomi <felix.yadomi@gmail.com>",
   "repository": {
