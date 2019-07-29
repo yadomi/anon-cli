@@ -4,6 +4,9 @@
   "license": "ISC",
   "main": "index.js",
   "author": "Felix Yadomi <felix.yadomi@gmail.com>",
+  "bin": {
+    "anon": "./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yadomi/anon-cli.git"
