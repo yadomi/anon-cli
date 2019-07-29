@@ -8,8 +8,6 @@
     "url": "git+https://github.com/yadomi/anon-cli.git"
   },
   "dependencies": {
-    "md5": "^2.2.1",
-    "minimist": "^1.2.0",
-    "ramda": "^0.26.1"
+    "minimist": "^1.2.0"
   }
 }
