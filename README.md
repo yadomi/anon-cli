@@ -4,8 +4,9 @@ CLI tool to redact/anonymize PostgreSQL dump generated via pg_dump with COPY sta
 
 ## Usage:
 
-| -i  | Specify the input file, aka the pg_dump generated file                                     |
+| Option  | Description                                     |
 | --- | ------------------------------------------------------------------------------------------ |
+| -i  | Specify the input file, aka the pg_dump generated file                                     |
 | -o  | Specify the output file. This is the file with redacted data                               |
 | -t  | Specify the transfomer file. This is the file where you describe what to redact. See below |
 | -f  | Force overwrite ouptut file if already exist                                               |
