@@ -14,7 +14,7 @@ CLI tool to redact/anonymize PostgreSQL dump generated via pg_dump with COPY sta
 ### Example:
 
 ```
-anon -i ./input.dump -o ./output.dump -t ./example-transformers.js
+node index.js -i ./input.dump -o ./output.dump -t ./example-transformers.js
 ```
 
 ### Transformer file
