@@ -12,6 +12,6 @@
     "url": "git+https://github.com/yadomi/anon-cli.git"
   },
   "dependencies": {
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.6"
   }
 }
